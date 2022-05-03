@@ -1,0 +1,19 @@
+.add-task-form {
+  .action-button {
+    display: flex;
+  }
+  button {
+    border: none;
+    margin: 6px;
+    color: #fff;
+  }
+  .add-button {
+    background-color: blue;
+  }
+  .cancel-button {
+    background-color: red;
+  }
+}
+.open-add-button {
+  float: right;
+}
